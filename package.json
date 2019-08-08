@@ -17,7 +17,6 @@
   "_id": "sails-count@1.2.0",
   "_inCache": true,
   "_location": "/sails-count",
-  "_nodeVersion": "8.1.0",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
     "tmp": "tmp/sails-count-1.2.0.tgz_1499156495800_0.6919179682154208"
@@ -26,7 +25,6 @@
     "name": "burntblark",
     "email": "burntblark@gmail.com"
   },
-  "_npmVersion": "5.0.3",
   "_phantomChildren": {},
   "_requested": {
     "raw": "sails-count@^1.2.0",
@@ -93,5 +91,5 @@
   "sails": {
     "isHook": true
   },
-  "version": "1.2.0"
+  "version": "1.2.1"
 }
